@@ -182,7 +182,7 @@
   {
     "name": "市川市動植物園",
     "link": "http://www.city.ichikawa.lg.jp/zoo/index.html",
-    "resolved": "http://www.city.ichikawa.lg.jp/zoo/index.html"
+    "resolved": "https://www.city.ichikawa.lg.jp/zoo/index.html"
   },
   {
     "name": "夢見ヶ崎動物公園",
@@ -327,7 +327,7 @@
   {
     "name": "越前松島水族館",
     "link": "http://www.echizen-aquarium.com/",
-    "resolved": "http://www.echizen-aquarium.com/"
+    "resolved": "https://www.echizen-aquarium.com/"
   },
   {
     "name": "小諸動物園",
@@ -467,7 +467,7 @@
   {
     "name": "みさき公園",
     "link": "http://www.nankai.co.jp/misaki/",
-    "resolved": "https://www.nankai.co.jp/misaki/"
+    "resolved": "http://www.nankai.co.jp/misaki.html"
   },
   {
     "name": "天王寺動物園",
@@ -642,7 +642,7 @@
   {
     "name": "おさかな館",
     "link": "http://www.morinokuni.or.jp/",
-    "resolved": "http://www.morinokuni.or.jp/"
+    "resolved": "https://www.morinokuni.or.jp/"
   },
   {
     "name": "到津の森公園",
@@ -656,8 +656,8 @@
   },
   {
     "name": "大牟田動物園",
-    "link": "http://www.omutazoo.org/",
-    "resolved": null
+    "link": "https://omutacityzoo.org/",
+    "resolved": "https://omutacityzoo.org/"
   },
   {
     "name": "久留米鳥類センター",
