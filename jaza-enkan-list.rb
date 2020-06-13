@@ -5,6 +5,7 @@
 require 'json'
 require 'net/http'
 require 'nokogiri'
+require 'time'
 
 
 INDEX = 'https://www.jaza.jp/search-enkan'
@@ -43,7 +44,9 @@ def resolve(uri, redirect_limit: 5)
 end
 
 
-html = Nokogiri::HTML(Net::HTTP.get(URI(INDEX)))
+timestamp = Time.now.utc.iso8601
+html = Net::HTTP.get(URI(INDEX))
+html = Nokogiri::HTML(html)
 
 list = html.css('.enkan-list').map do |elm|
   elm.css('a').first
@@ -61,4 +64,4 @@ list.map! do |a|
 end
 list.map!(&:value)
 
-puts(JSON.pretty_generate(list))
+puts(JSON.pretty_generate({ retrieved: timestamp, institutions: list }))
