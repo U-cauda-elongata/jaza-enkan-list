@@ -11,8 +11,8 @@
   },
   {
     "name": "おびひろ動物園",
-    "link": "http://www.obihirozoo.jp/",
-    "resolved": "http://www.obihirozoo.jp/"
+    "link": "https://www.city.obihiro.hokkaido.jp/zoo/",
+    "resolved": "https://www.city.obihiro.hokkaido.jp/zoo/"
   },
   {
     "name": "釧路市動物園",
@@ -172,7 +172,7 @@
   {
     "name": "足立区生物園",
     "link": "http://www.seibutuen.jp/",
-    "resolved": "http://www.seibutuen.jp/"
+    "resolved": "https://www.seibutuen.jp/"
   },
   {
     "name": "千葉市動物公園",
@@ -213,11 +213,6 @@
     "name": "遊亀公園動物園",
     "link": "https://www.city.kofu.yamanashi.jp/zoo/index.html",
     "resolved": "https://www.city.kofu.yamanashi.jp/zoo/index.html"
-  },
-  {
-    "name": "大洗水族館",
-    "link": "http://www.aquaworld-oarai.com/",
-    "resolved": "http://www.aquaworld-oarai.com/"
   },
   {
     "name": "鴨川シーワールド",
@@ -265,11 +260,6 @@
     "resolved": "http://www.seaparadise.co.jp/"
   },
   {
-    "name": "相模川ふれあい科学館",
-    "link": "http://sagamigawa-fureai.com/",
-    "resolved": "https://sagamigawa-fureai.com/"
-  },
-  {
     "name": "なかがわ水遊園",
     "link": "http://tnap.jp/",
     "resolved": "https://tnap.jp/"
@@ -315,11 +305,6 @@
     "resolved": "http://www.aquarium-teradomari.jp/"
   },
   {
-    "name": "魚津水族館",
-    "link": "http://www.uozu-aquarium.jp/",
-    "resolved": "http://www.uozu-aquarium.jp/"
-  },
-  {
     "name": "のとじま水族館",
     "link": "https://www.notoaqua.jp/",
     "resolved": "https://www.notoaqua.jp/"
@@ -331,8 +316,8 @@
   },
   {
     "name": "小諸動物園",
-    "link": "http://www.city.komoro.lg.jp/category/institution/kouen/komoro-zoo/",
-    "resolved": null
+    "link": "https://www.city.komoro.lg.jp/kaikoen/about/7139.html",
+    "resolved": "https://www.city.komoro.lg.jp/kaikoen/about/7139.html"
   },
   {
     "name": "須坂動物園",
@@ -420,34 +405,24 @@
     "resolved": "http://www.izuhakone.co.jp/seapara/"
   },
   {
-    "name": "下田海中水族館",
-    "link": "http://www.shimoda-aquarium.com/",
-    "resolved": "https://shimoda-aquarium.com/"
-  },
-  {
     "name": "東海大海洋博物館",
     "link": "http://www.umi.muse-tokai.jp/",
     "resolved": "http://www.umi.muse-tokai.jp/"
   },
   {
-    "name": "アクア・トトぎふ",
-    "link": "http://aquatotto.com/",
-    "resolved": "https://aquatotto.com/"
-  },
-  {
     "name": "南知多ビーチランド",
     "link": "http://www.beachland.jp/",
-    "resolved": "http://www.beachland.jp/"
+    "resolved": "https://www.beachland.jp/"
   },
   {
     "name": "碧南水族館",
-    "link": "http://www.city.hekinan.aichi.jp/aquarium/",
-    "resolved": "https://www.city.hekinan.lg.jp/"
+    "link": "http://www.city.hekinan.lg.jp/aquarium/index.html",
+    "resolved": "https://www.city.hekinan.lg.jp/aquarium/index.html"
   },
   {
     "name": "名古屋港水族館",
     "link": "http://www.nagoyaaqua.jp/",
-    "resolved": "http://www.nagoyaaqua.jp/"
+    "resolved": "https://nagoyaaqua.jp/"
   },
   {
     "name": "京都動物園",
@@ -552,7 +527,7 @@
   {
     "name": "須磨水族園",
     "link": "http://sumasui.jp/",
-    "resolved": "https://www.sumasui.jp/"
+    "resolved": "https://kobe-sumasui.jp/"
   },
   {
     "name": "城崎マリンワールド",
@@ -596,8 +571,8 @@
   },
   {
     "name": "玉野海洋博物館",
-    "link": "http://www.city.tamano.lg.jp/docs/2014022000793/",
-    "resolved": null
+    "link": "https://www.city.tamano.lg.jp/site/kaihaku/",
+    "resolved": "https://www.city.tamano.lg.jp/site/kaihaku/"
   },
   {
     "name": "宮島水族館",
@@ -652,7 +627,7 @@
   {
     "name": "福岡市動物園",
     "link": "http://zoo.city.fukuoka.lg.jp//",
-    "resolved": "http://zoo.city.fukuoka.lg.jp//"
+    "resolved": "https://zoo.city.fukuoka.lg.jp//"
   },
   {
     "name": "大牟田動物園",
@@ -692,12 +667,12 @@
   {
     "name": "フェニックス動物園",
     "link": "http://www.miyazaki-city-zoo.jp/",
-    "resolved": "http://www.miyazaki-city-zoo.jp/"
+    "resolved": "https://www.miyazaki-city-zoo.jp/"
   },
   {
     "name": "平川動物公園",
     "link": "http://hirakawazoo.jp/",
-    "resolved": "http://hirakawazoo.jp/"
+    "resolved": "https://hirakawazoo.jp/"
   },
   {
     "name": "沖縄こどもの国",
