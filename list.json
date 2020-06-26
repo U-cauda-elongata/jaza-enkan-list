@@ -1,5 +1,5 @@
 {
-  "retrieved": "2020-06-13T07:30:21Z",
+  "retrieved": "2020-06-26T20:06:51Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -409,7 +409,7 @@
     {
       "name": "東海大海洋博物館",
       "link": "http://www.umi.muse-tokai.jp/",
-      "resolved": "http://www.umi.muse-tokai.jp/"
+      "resolved": "https://www.umi.muse-tokai.jp/"
     },
     {
       "name": "南知多ビーチランド",
@@ -649,7 +649,7 @@
     {
       "name": "九十九島動植物園",
       "link": "http://www.morikirara.jp/",
-      "resolved": "https://www.morikirara.jp/"
+      "resolved": "https://morikirara.jp/"
     },
     {
       "name": "長崎バイオパーク",
