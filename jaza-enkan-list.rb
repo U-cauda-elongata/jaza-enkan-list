@@ -2,10 +2,11 @@
 
 # frozen_string_literal: true
 
+require 'curb'
 require 'json'
-require 'net/http'
 require 'nokogiri'
 require 'time'
+require 'uri'
 
 
 INDEX = 'https://www.jaza.jp/search-enkan'
@@ -14,38 +15,44 @@ INDEX = 'https://www.jaza.jp/search-enkan'
 def check(uri, redirect_limit)
   STDERR.puts "GET #{uri}"
 
-  Net::HTTP.start(uri.hostname, uri.port, use_ssl: uri.scheme == 'https') do |http|
-    # 本来は HEAD を使いたいところだが、登別マリンパークニクスで正しく動作しないので GET を使う
-    res = http.request_get(uri)
-    case res
-    when Net::HTTPSuccess
-      uri
-    when Net::HTTPRedirection
-      raise if redirect_limit == 0
-      resolve(uri + res['Location'], redirect_limit: redirect_limit - 1)
+  # 本来は HEAD を使いたいところだが、登別マリンパークニクスで正しく動作しないので GET を使う
+  curl = Curl.get(uri)
+  status = curl.status
+  case status[0].to_i
+  when 2
+    uri
+  when 3
+    raise Curl::Err::TooManyRedirectsError if redirect_limit == 0
+
+    location = nil
+    curl.header_str.split("\r\n") do |line|
+      location ||= line.match(/^Location: (.*)/i)&.[](1)
     end
+    uri = (URI(uri) + location).to_s
+    resolve(uri, redirect_limit: redirect_limit - 1)
   end
 end
 
 ##
 # `uri` のリダイレクトを解決する。また、可能なら HTTPS にアップグレードする。
 def resolve(uri, redirect_limit: 5)
-  if uri.scheme == 'https'
-    Net::HTTP.start(uri.hostname, uri.port, use_ssl: true) do |http|
+  if uri.start_with?('https://')
+    check(uri, redirect_limit)
+  elsif uri.start_with?('http://')
+    https = uri.gsub(/^http/, 'https')
+    begin
+      # HTTPS で試行
+      check(https, redirect_limit)
+    rescue Curl::Err::CurlError
+      # エラーならば HTTP にフォールバック
       check(uri, redirect_limit)
     end
-  else
-    https = uri.clone
-    https.scheme = 'https'
-    https = URI(https.to_s)
-    # XXX: inline rescue やめたい
-    (check(https, redirect_limit) rescue nil) || check(uri, redirect_limit)
   end
 end
 
 
 timestamp = Time.now.utc.iso8601
-html = Net::HTTP.get(URI(INDEX))
+html = Curl.get(INDEX).body_str
 html = Nokogiri::HTML(html)
 
 list = html.css('.enkan-list').map do |elm|
@@ -58,7 +65,11 @@ list.map! do |a|
   name = a.css('img').first.attribute('alt').value
   link = a.attribute('href').value
   Thread.new do
-    resolved = resolve(URI(link)) rescue nil
+    resolved = begin
+      resolve(link)
+    rescue Curl::Err::CurlError
+      nil
+    end
     { name: name, link: link, resolved: resolved }
   end
 end
