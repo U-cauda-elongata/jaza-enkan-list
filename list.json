@@ -1,5 +1,5 @@
 {
-  "retrieved": "2020-06-26T20:06:51Z",
+  "retrieved": "2020-10-09T21:53:16Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -89,7 +89,7 @@
     {
       "name": "宇都宮動物園",
       "link": "http://www.utsunomiya-zoo.com/",
-      "resolved": "http://utsunomiya-zoo.com/"
+      "resolved": "https://utsunomiya-zoo.com/"
     },
     {
       "name": "那須どうぶつ王国",
@@ -189,7 +189,7 @@
     {
       "name": "夢見ヶ崎動物公園",
       "link": "http://www.city.kawasaki.jp/shisetsu/category/30-26-0-0-0-0-0-0-0-0.html",
-      "resolved": "http://www.city.kawasaki.jp/shisetsu/category/30-26-0-0-0-0-0-0-0-0.html"
+      "resolved": "https://www.city.kawasaki.jp/shisetsu/category/30-26-0-0-0-0-0-0-0-0.html"
     },
     {
       "name": "野毛山動物園",
@@ -354,7 +354,7 @@
     {
       "name": "伊豆アニマルキングダム",
       "link": "http://izu-kamori.jp/izu-biopark/index.html",
-      "resolved": "http://izu-kamori.jp/izu-biopark/index.html"
+      "resolved": null
     },
     {
       "name": "シャボテン動物公園",
@@ -389,7 +389,7 @@
     {
       "name": "モンキーセンター",
       "link": "http://www.j-monkey.jp/",
-      "resolved": "http://www.j-monkey.jp/"
+      "resolved": "https://www.j-monkey.jp/"
     },
     {
       "name": "豊田鞍ケ池公園",
@@ -527,8 +527,8 @@
       "resolved": "https://www.nifrel.jp/"
     },
     {
-      "name": "須磨水族園",
-      "link": "http://sumasui.jp/",
+      "name": "須磨海浜水族園",
+      "link": "https://kobe-sumasui.jp/",
       "resolved": "https://kobe-sumasui.jp/"
     },
     {
@@ -664,7 +664,7 @@
     {
       "name": "熊本市動植物園",
       "link": "http://ezooko.jp/",
-      "resolved": "https://ezooko.jp/"
+      "resolved": "http://ezooko.jp/"
     },
     {
       "name": "フェニックス動物園",
