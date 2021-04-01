@@ -1,5 +1,5 @@
 {
-  "retrieved": "2020-10-09T21:53:16Z",
+  "retrieved": "2021-04-01T21:07:32Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -69,7 +69,7 @@
     {
       "name": "男鹿水族館",
       "link": "http://www.gao-aqua.jp/index.html",
-      "resolved": "http://www.gao-aqua.jp/index.html"
+      "resolved": null
     },
     {
       "name": "加茂水族館",
@@ -104,7 +104,7 @@
     {
       "name": "桐生が岡動物園",
       "link": "http://www.city.kiryu.lg.jp/zoo/index.html",
-      "resolved": "http://www.city.kiryu.lg.jp/zoo/index.html"
+      "resolved": "https://www.city.kiryu.lg.jp/zoo/index.html"
     },
     {
       "name": "群馬サファリ",
@@ -209,7 +209,7 @@
     {
       "name": "市原ぞうの国",
       "link": "http://www.zounokuni.com/",
-      "resolved": "http://www.zounokuni.com/"
+      "resolved": "https://zounokuni.com/"
     },
     {
       "name": "遊亀公園動物園",
@@ -279,7 +279,7 @@
     {
       "name": "高岡古城公園動物園",
       "link": "http://www.takaokakojyozoo.jp/",
-      "resolved": "http://www.takaokakojyozoo.jp/"
+      "resolved": "https://www.takaokakojyozoo.jp/"
     },
     {
       "name": "いしかわ動物園",
@@ -312,11 +312,6 @@
       "resolved": "https://www.notoaqua.jp/"
     },
     {
-      "name": "越前松島水族館",
-      "link": "http://www.echizen-aquarium.com/",
-      "resolved": "https://www.echizen-aquarium.com/"
-    },
-    {
       "name": "小諸動物園",
       "link": "https://www.city.komoro.lg.jp/kaikoen/about/7139.html",
       "resolved": "https://www.city.komoro.lg.jp/kaikoen/about/7139.html"
@@ -334,7 +329,7 @@
     {
       "name": "飯田動物園",
       "link": "http://www.city.iida.lg.jp/zoo/index/index.htm",
-      "resolved": "http://iidazoo.jp/"
+      "resolved": "https://www.city.iida.lg.jp/zoo/index/index.htm"
     },
     {
       "name": "大町山岳博物館",
@@ -354,7 +349,7 @@
     {
       "name": "伊豆アニマルキングダム",
       "link": "http://izu-kamori.jp/izu-biopark/index.html",
-      "resolved": null
+      "resolved": "http://izu-kamori.jp/izu-biopark/index.html"
     },
     {
       "name": "シャボテン動物公園",
@@ -387,11 +382,6 @@
       "resolved": "http://www.higashiyama.city.nagoya.jp/"
     },
     {
-      "name": "モンキーセンター",
-      "link": "http://www.j-monkey.jp/",
-      "resolved": "https://www.j-monkey.jp/"
-    },
-    {
       "name": "豊田鞍ケ池公園",
       "link": "http://www.city.toyota.aichi.jp/shisetsu/sports/kouen/1007430/index.html",
       "resolved": "https://www.city.toyota.aichi.jp/shisetsu/sports/kouen/1007430/index.html"
@@ -402,19 +392,9 @@
       "resolved": "https://www.city.okazaki.lg.jp/1100/1107/1149/p006023.html"
     },
     {
-      "name": "三津シーパラダイス",
-      "link": "http://www.izuhakone.co.jp/seapara/",
-      "resolved": "http://www.izuhakone.co.jp/seapara/"
-    },
-    {
       "name": "東海大海洋博物館",
       "link": "http://www.umi.muse-tokai.jp/",
       "resolved": "https://www.umi.muse-tokai.jp/"
-    },
-    {
-      "name": "南知多ビーチランド",
-      "link": "http://www.beachland.jp/",
-      "resolved": "https://www.beachland.jp/"
     },
     {
       "name": "碧南水族館",
@@ -442,14 +422,9 @@
       "resolved": "https://www.aws-s.com/"
     },
     {
-      "name": "みさき公園",
-      "link": "http://www.nankai.co.jp/misaki/",
-      "resolved": "http://www.nankai.co.jp/misaki.html"
-    },
-    {
       "name": "天王寺動物園",
       "link": "http://www.city.osaka.lg.jp/contents/wdu170/tennojizoo/",
-      "resolved": "https://www.city.osaka.lg.jp/contents/wdu170/tennojizoo/"
+      "resolved": "https://www.tennojizoo.jp/"
     },
     {
       "name": "五月山動物園",
@@ -604,7 +579,7 @@
     {
       "name": "のいち動物公園",
       "link": "http://www.noichizoo.or.jp/",
-      "resolved": "http://www.noichizoo.or.jp/"
+      "resolved": "https://noichizoo.or.jp/"
     },
     {
       "name": "桂浜水族館",
