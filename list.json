@@ -1,5 +1,5 @@
 {
-  "retrieved": "2021-04-01T21:07:32Z",
+  "retrieved": "2021-05-07T08:38:22Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -68,8 +68,8 @@
     },
     {
       "name": "男鹿水族館",
-      "link": "http://www.gao-aqua.jp/index.html",
-      "resolved": null
+      "link": "https://www.gao-aqua.jp/",
+      "resolved": "https://www.gao-aqua.jp/"
     },
     {
       "name": "加茂水族館",
@@ -172,6 +172,11 @@
       "resolved": "https://edogawa-kankyozaidan.jp/zoo/"
     },
     {
+      "name": "町田リス園",
+      "link": "https://www.machida-risuen.com/",
+      "resolved": "https://www.machida-risuen.com/"
+    },
+    {
       "name": "足立区生物園",
       "link": "http://www.seibutuen.jp/",
       "resolved": "https://www.seibutuen.jp/"
@@ -255,6 +260,11 @@
       "name": "すみだ水族館",
       "link": "http://www.sumida-aquarium.com/",
       "resolved": "https://www.sumida-aquarium.com/"
+    },
+    {
+      "name": "川崎水族館",
+      "link": "https://kawa-sui.com/",
+      "resolved": "https://kawa-sui.com/"
     },
     {
       "name": "八景島シーパラダイス",
@@ -423,7 +433,7 @@
     },
     {
       "name": "天王寺動物園",
-      "link": "http://www.city.osaka.lg.jp/contents/wdu170/tennojizoo/",
+      "link": "https://www.tennojizoo.jp/",
       "resolved": "https://www.tennojizoo.jp/"
     },
     {
@@ -674,7 +684,7 @@
     {
       "name": "かごしま水族館",
       "link": "http://www.ioworld.jp/",
-      "resolved": "http://ioworld.jp/"
+      "resolved": "https://ioworld.jp/"
     },
     {
       "name": "ペンギン水族館",
