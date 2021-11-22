@@ -1,5 +1,5 @@
 {
-  "retrieved": "2021-05-07T08:38:22Z",
+  "retrieved": "2021-11-22T08:41:31Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -54,7 +54,7 @@
     {
       "name": "盛岡市動物公園",
       "link": "http://moriokazoo.org/",
-      "resolved": "http://moriokazoo.org/"
+      "resolved": "http://moriokazoo.org/redirect.html"
     },
     {
       "name": "岩手サファリ",
@@ -119,12 +119,12 @@
     {
       "name": "大宮公園",
       "link": "http://www.parks.or.jp/omiyazoo/",
-      "resolved": "http://www.parks.or.jp/omiyazoo/"
+      "resolved": "https://www.parks.or.jp/omiyazoo/"
     },
     {
       "name": "埼玉こども動物公園",
       "link": "http://www.parks.or.jp/sczoo/",
-      "resolved": "http://www.parks.or.jp/sczoo/"
+      "resolved": "https://www.parks.or.jp/sczoo/"
     },
     {
       "name": "東武動物公園",
@@ -134,7 +134,7 @@
     {
       "name": "狭山智光山動物園",
       "link": "http://www.parks.or.jp/chikozan/zoo/",
-      "resolved": "http://www.parks.or.jp/chikozan/zoo/"
+      "resolved": "https://www.parks.or.jp/chikozan/zoo/"
     },
     {
       "name": "大崎公園子供動物園",
@@ -199,17 +199,17 @@
     {
       "name": "野毛山動物園",
       "link": "http://www.hama-midorinokyokai.or.jp/zoo/nogeyama/",
-      "resolved": "http://www.hama-midorinokyokai.or.jp/zoo/nogeyama/"
+      "resolved": "https://www.hama-midorinokyokai.or.jp/zoo/nogeyama/"
     },
     {
       "name": "横浜金沢動物園",
       "link": "http://www.hama-midorinokyokai.or.jp/zoo/kanazawa/",
-      "resolved": "http://www.hama-midorinokyokai.or.jp/zoo/kanazawa/"
+      "resolved": "https://www.hama-midorinokyokai.or.jp/zoo/kanazawa/"
     },
     {
       "name": "よこはま動物園",
       "link": "http://www.hama-midorinokyokai.or.jp/zoo/zoorasia/",
-      "resolved": "http://www.hama-midorinokyokai.or.jp/zoo/zoorasia/"
+      "resolved": "https://www.hama-midorinokyokai.or.jp/zoo/zoorasia/"
     },
     {
       "name": "市原ぞうの国",
@@ -224,12 +224,12 @@
     {
       "name": "鴨川シーワールド",
       "link": "http://www.kamogawa-seaworld.jp/index.html",
-      "resolved": "http://www.kamogawa-seaworld.jp/index.html"
+      "resolved": null
     },
     {
       "name": "さいたま水族館",
       "link": "http://www.parks.or.jp/suizokukan/",
-      "resolved": "http://www.parks.or.jp/suizokukan/"
+      "resolved": "https://www.parks.or.jp/suizokukan/"
     },
     {
       "name": "サンシャイン水族館",
@@ -338,8 +338,8 @@
     },
     {
       "name": "飯田動物園",
-      "link": "http://www.city.iida.lg.jp/zoo/index/index.htm",
-      "resolved": "https://www.city.iida.lg.jp/zoo/index/index.htm"
+      "link": "https://iidazoo.jp/",
+      "resolved": "https://iidazoo.jp/"
     },
     {
       "name": "大町山岳博物館",
@@ -359,7 +359,7 @@
     {
       "name": "伊豆アニマルキングダム",
       "link": "http://izu-kamori.jp/izu-biopark/index.html",
-      "resolved": "http://izu-kamori.jp/izu-biopark/index.html"
+      "resolved": null
     },
     {
       "name": "シャボテン動物公園",
@@ -487,11 +487,6 @@
       "resolved": "https://www.aquarium.co.jp/"
     },
     {
-      "name": "志摩マリンランド",
-      "link": "http://www.kintetsu.co.jp/leisure/shimamarine/",
-      "resolved": "https://www.kintetsu.co.jp/leisure/shimamarine/"
-    },
-    {
       "name": "<strong>伊勢シーパラダイス</strong>",
       "link": "https://ise-seaparadise.com/",
       "resolved": "https://ise-seaparadise.com/"
@@ -519,7 +514,7 @@
     {
       "name": "城崎マリンワールド",
       "link": "http://marineworld.hiyoriyama.co.jp/",
-      "resolved": "http://marineworld.hiyoriyama.co.jp/"
+      "resolved": "https://marineworld.hiyoriyama.co.jp/"
     },
     {
       "name": "姫路水族館",
@@ -644,7 +639,7 @@
     {
       "name": "九州サファリ",
       "link": "http://www.africansafari.co.jp/",
-      "resolved": "http://www.africansafari.co.jp/"
+      "resolved": "https://www.africansafari.co.jp/"
     },
     {
       "name": "熊本市動植物園",
