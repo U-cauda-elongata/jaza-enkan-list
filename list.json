@@ -1,5 +1,5 @@
 {
-  "retrieved": "2021-11-22T08:41:31Z",
+  "retrieved": "2022-06-10T10:48:26Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -164,7 +164,7 @@
     {
       "name": "羽村市動物公園",
       "link": "http://www.t-net.ne.jp/~hamura-z/",
-      "resolved": "http://www.t-net.ne.jp/~hamura-z/"
+      "resolved": "https://hamurazoo.jp/"
     },
     {
       "name": "江戸川区自然動物園",
@@ -294,7 +294,7 @@
     {
       "name": "いしかわ動物園",
       "link": "http://www.ishikawazoo.jp/",
-      "resolved": "http://www.ishikawazoo.jp/"
+      "resolved": "https://www.ishikawazoo.jp/"
     },
     {
       "name": "鯖江西山動物園",
@@ -314,7 +314,7 @@
     {
       "name": "寺泊水族博物館",
       "link": "http://www.aquarium-teradomari.jp/",
-      "resolved": "http://www.aquarium-teradomari.jp/"
+      "resolved": "https://aquarium-teradomari.jp/"
     },
     {
       "name": "のとじま水族館",
@@ -389,7 +389,7 @@
     {
       "name": "東山動物園",
       "link": "http://www.higashiyama.city.nagoya.jp/",
-      "resolved": "http://www.higashiyama.city.nagoya.jp/"
+      "resolved": "https://www.higashiyama.city.nagoya.jp/"
     },
     {
       "name": "豊田鞍ケ池公園",
@@ -439,7 +439,7 @@
     {
       "name": "五月山動物園",
       "link": "http://www.satsukiyamazoo.com/",
-      "resolved": "http://www.satsukiyamazoo.com/"
+      "resolved": "https://satsukiyamazoo.com/"
     },
     {
       "name": "王子動物園",
@@ -484,7 +484,7 @@
     {
       "name": "鳥羽水族館",
       "link": "http://www.aquarium.co.jp/",
-      "resolved": "https://www.aquarium.co.jp/"
+      "resolved": "https://aquarium.co.jp/"
     },
     {
       "name": "<strong>伊勢シーパラダイス</strong>",
@@ -494,7 +494,7 @@
     {
       "name": "串本海中公園",
       "link": "http://www.kushimoto.co.jp/",
-      "resolved": "http://www.kushimoto.co.jp/"
+      "resolved": "https://www.kushimoto.co.jp/"
     },
     {
       "name": "大阪海遊館",
@@ -510,6 +510,11 @@
       "name": "須磨海浜水族園",
       "link": "https://kobe-sumasui.jp/",
       "resolved": "https://kobe-sumasui.jp/"
+    },
+    {
+      "name": "AQUARIUM×ART átoa",
+      "link": "https://atoa-kobe.jp/",
+      "resolved": "https://atoa-kobe.jp/"
     },
     {
       "name": "城崎マリンワールド",
@@ -534,7 +539,7 @@
     {
       "name": "福山動物園",
       "link": "http://www.fukuyamazoo.jp/",
-      "resolved": "http://www.fukuyamazoo.jp/"
+      "resolved": "https://www.fukuyamazoo.jp/"
     },
     {
       "name": "徳山動物園",
@@ -544,7 +549,7 @@
     {
       "name": "秋吉台サファリ",
       "link": "http://www.safariland.jp/",
-      "resolved": "http://www.safariland.jp/"
+      "resolved": "https://www.safariland.jp/"
     },
     {
       "name": "ときわ動物園",
@@ -644,7 +649,7 @@
     {
       "name": "熊本市動植物園",
       "link": "http://ezooko.jp/",
-      "resolved": "http://ezooko.jp/"
+      "resolved": "https://www.ezooko.jp/"
     },
     {
       "name": "フェニックス動物園",
