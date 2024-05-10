@@ -13,21 +13,31 @@ INDEX = 'https://www.jaza.jp/search-enkan'
 
 
 def check(uri, redirect_limit)
-  STDERR.puts "GET #{uri}"
+  STDERR.puts "> GET #{uri}"
 
   # 本来は HEAD を使いたいところだが、登別マリンパークニクスで正しく動作しないので GET を使う
   curl = Curl.get(uri)
   status = curl.status
-  case status[0].to_i
-  when 2
+  STDERR.puts "< #{status}"
+  case status[0]
+  when '2'
     uri
-  when 3
-    raise Curl::Err::TooManyRedirectsError if redirect_limit == 0
+  when '3'
+    if redirect_limit == 0
+      STDERR.puts 'Reached redirect limit'
+      return
+    end
 
     location = nil
     curl.header_str.split("\r\n") do |line|
-      location ||= line.match(/^Location: (.*)/i)&.[](1)
+      if match = line.match(/^Location: (.*)/i)
+        STDERR.puts "< #{line}"
+        location = match[1]
+        break
+      end
     end
+    return unless location
+
     uri = (URI(uri) + location).to_s
     resolve(uri, redirect_limit: redirect_limit - 1)
   end
@@ -41,10 +51,10 @@ def resolve(uri, redirect_limit: 5)
   elsif uri.start_with?('http://')
     https = uri.gsub(/^http/, 'https')
     begin
-      # HTTPS で試行
+      # まずは HTTPS で試行
       check(https, redirect_limit)
     rescue Curl::Err::CurlError
-      # エラーならば HTTP にフォールバック
+      # HTTP にフォールバック
       check(uri, redirect_limit)
     end
   end
