@@ -1,0 +1,23 @@
+name: Update the list
+
+on:
+  schedule:
+    - cron: '00 09 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: bundler
+      - run: bundle exec jaza-enkan-list.rb > list.json 
+      - name: Get current date
+        id: date
+        run: echo "date=$(date --iso-8601)" >> "$GITHUB_OUTPUT"
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Dump ${{ steps.date.outputs.date }}'
+          branch: master
+          file_pattern: 'list.json'
