@@ -1,5 +1,5 @@
 {
-  "retrieved": "2024-05-09T09:00:44Z",
+  "retrieved": "2024-10-26T11:10:14Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -30,6 +30,11 @@
       "name": "新さっぽろサンピアザ水族館",
       "link": "http://www.sunpiazza-aquarium.com/",
       "resolved": "https://www.sunpiazza-aquarium.com/"
+    },
+    {
+      "name": "AOAO SAPPORO",
+      "link": "https://aoao-sapporo.blue/",
+      "resolved": "https://aoao-sapporo.blue/"
     },
     {
       "name": "登別ニクス",
@@ -69,7 +74,7 @@
     {
       "name": "男鹿水族館",
       "link": "https://www.gao-aqua.jp/",
-      "resolved": null
+      "resolved": "https://www.gao-aqua.jp/"
     },
     {
       "name": "加茂水族館",
@@ -152,7 +157,7 @@
       "resolved": "https://www.tokyo-zoo.net/zoo/tama/"
     },
     {
-      "name": "井の頭文化園",
+      "name": "井の頭自然文化園",
       "link": "http://www.tokyo-zoo.net/zoo/ino/index.html",
       "resolved": "https://www.tokyo-zoo.net/zoo/ino/"
     },
@@ -323,8 +328,8 @@
     },
     {
       "name": "小諸動物園",
-      "link": "https://www.city.komoro.lg.jp/kaikoen/about/7139.html",
-      "resolved": "https://www.city.komoro.lg.jp/kaikoen/about/7139.html"
+      "link": "https://www.city.komoro.lg.jp/komoro_zoo/index.html",
+      "resolved": "https://www.city.komoro.lg.jp/komoro_zoo/index.html"
     },
     {
       "name": "須坂動物園",
@@ -359,7 +364,7 @@
     {
       "name": "伊豆アニマルキングダム",
       "link": "http://izu-kamori.jp/izu-biopark/index.html",
-      "resolved": "https://www.izu-kamori.jp/izu-biopark/index.html"
+      "resolved": "https://izu-animal-kingdom.com/"
     },
     {
       "name": "シャボテン動物公園",
@@ -369,7 +374,7 @@
     {
       "name": "熱川バナナワニ園",
       "link": "http://bananawani.jp/",
-      "resolved": "http://bananawani.jp/"
+      "resolved": "https://bananawani.jp/"
     },
     {
       "name": "日本平動物園",
@@ -409,12 +414,12 @@
     {
       "name": "碧南水族館",
       "link": "http://www.city.hekinan.lg.jp/aquarium/index.html",
-      "resolved": null
+      "resolved": "https://www.city.hekinan.lg.jp/aquarium/index.html"
     },
     {
       "name": "名古屋港水族館",
       "link": "http://www.nagoyaaqua.jp/",
-      "resolved": "https://nagoyaaqua.jp/"
+      "resolved": null
     },
     {
       "name": "SEA LIFE 名古屋",
@@ -492,11 +497,6 @@
       "resolved": "https://ise-seaparadise.com/"
     },
     {
-      "name": "串本海中公園",
-      "link": "http://www.kushimoto.co.jp/",
-      "resolved": "https://www.kushimoto.co.jp/"
-    },
-    {
       "name": "大阪海遊館",
       "link": "http://www.kaiyukan.com/index.html",
       "resolved": "https://www.kaiyukan.com/index.html"
@@ -509,7 +509,7 @@
     {
       "name": "神戸須磨シーワールド",
       "link": "https://kobe-sumasui.jp/",
-      "resolved": "https://kobe-sumasui.jp/"
+      "resolved": "https://www.kobesuma-seaworld.jp/"
     },
     {
       "name": "AQUARIUM×ART átoa",
@@ -564,7 +564,7 @@
     {
       "name": "宮島水族館",
       "link": "http://www.miyajima-aqua.jp/",
-      "resolved": "https://www.miyajima-aqua.jp/"
+      "resolved": "https://miyajima-aqua.jp/"
     },
     {
       "name": "しまね海洋館",
@@ -573,8 +573,8 @@
     },
     {
       "name": "とくしま動物園",
-      "link": "http://www.city.tokushima.tokushima.jp/zoo/index.html",
-      "resolved": null
+      "link": "https://tokushimazoo.jp/",
+      "resolved": "https://tokushimazoo.jp/"
     },
     {
       "name": "とべ動物園",
@@ -649,7 +649,7 @@
     {
       "name": "熊本市動植物園",
       "link": "http://ezooko.jp/",
-      "resolved": "https://ezooko.jp/"
+      "resolved": "https://www.ezooko.jp/"
     },
     {
       "name": "フェニックス動物園",
