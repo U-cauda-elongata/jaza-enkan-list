@@ -74,15 +74,13 @@ STDERR.puts "Found #{list.length} institutions"
 list.map! do |a|
   name = a.css('img').first.attribute('alt').value
   link = a.attribute('href').value
-  Thread.new do
-    resolved = begin
-      resolve(link)
-    rescue Curl::Err::CurlError
-      nil
-    end
-    { name: name, link: link, resolved: resolved }
+  resolved = begin
+    resolve(link)
+  rescue Curl::Err::CurlError => e
+    STDERR.puts e
+    nil
   end
+  { name: name, link: link, resolved: resolved }
 end
-list.map!(&:value)
 
 puts(JSON.pretty_generate({ retrieved: timestamp, institutions: list }))
