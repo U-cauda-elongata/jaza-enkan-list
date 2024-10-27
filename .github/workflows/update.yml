@@ -2,16 +2,16 @@ name: Update the list
 
 on:
   schedule:
-    - cron: '00 09 * * *'
+    - cron: '00 15 * * *'
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - run: bundler
+      - run: bundle install --local || bundle install
       - run: bundle exec jaza-enkan-list.rb > list.json 
       - name: Get current date
         id: date

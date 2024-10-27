@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
-source 'https://rubygems.org' do
-  gem 'curb'
-  gem 'nokogiri'
-end
+source 'https://rubygems.org'
 
+gem 'curb', '~> 1'
+gem 'nokogiri', '~> 1'
