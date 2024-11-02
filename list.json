@@ -1,5 +1,5 @@
 {
-  "retrieved": "2024-10-26T11:10:14Z",
+  "retrieved": "2024-11-02T15:09:42Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": "https://www.nasusafari.com/"
+      "resolved": null
     },
     {
       "name": "桐生が岡動物園",
@@ -164,7 +164,7 @@
     {
       "name": "大島公園",
       "link": "http://www.soumu.metro.tokyo.jp/11osima/park/www/htdocs/zoo/index.html",
-      "resolved": "https://www.soumu.metro.tokyo.lg.jp/11osima/park/www/htdocs/zoo/index.html"
+      "resolved": null
     },
     {
       "name": "羽村市動物公園",
@@ -249,7 +249,7 @@
     {
       "name": "しながわ水族館",
       "link": "http://www.aquarium.gr.jp/",
-      "resolved": "https://www.aquarium.gr.jp/"
+      "resolved": null
     },
     {
       "name": "アクアパーク品川",
@@ -294,7 +294,7 @@
     {
       "name": "高岡古城公園動物園",
       "link": "http://www.takaokakojyozoo.jp/",
-      "resolved": "https://www.takaokakojyozoo.jp/"
+      "resolved": null
     },
     {
       "name": "いしかわ動物園",
@@ -319,7 +319,7 @@
     {
       "name": "寺泊水族博物館",
       "link": "http://www.aquarium-teradomari.jp/",
-      "resolved": "https://aquarium-teradomari.jp/"
+      "resolved": null
     },
     {
       "name": "のとじま水族館",
@@ -419,7 +419,7 @@
     {
       "name": "名古屋港水族館",
       "link": "http://www.nagoyaaqua.jp/",
-      "resolved": null
+      "resolved": "https://nagoyaaqua.jp/"
     },
     {
       "name": "SEA LIFE 名古屋",
@@ -684,7 +684,7 @@
     {
       "name": "かごしま水族館",
       "link": "http://www.ioworld.jp/",
-      "resolved": "https://ioworld.jp/"
+      "resolved": null
     },
     {
       "name": "ペンギン水族館",
