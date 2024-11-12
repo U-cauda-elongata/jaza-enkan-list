@@ -1,5 +1,5 @@
 {
-  "retrieved": "2024-11-11T15:09:10Z",
+  "retrieved": "2024-11-12T15:09:42Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": null
+      "resolved": "https://www.nasusafari.com/"
     },
     {
       "name": "桐生が岡動物園",
@@ -484,7 +484,7 @@
     {
       "name": "京都水族館",
       "link": "http://www.kyoto-aquarium.com/",
-      "resolved": "https://www.kyoto-aquarium.com/?doing_wp_cron=1730876518.6591699123382568359375"
+      "resolved": "https://www.kyoto-aquarium.com/"
     },
     {
       "name": "鳥羽水族館",
