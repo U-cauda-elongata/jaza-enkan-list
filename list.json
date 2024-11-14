@@ -1,5 +1,5 @@
 {
-  "retrieved": "2024-11-13T15:09:25Z",
+  "retrieved": "2024-11-14T15:09:47Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -79,7 +79,7 @@
     {
       "name": "加茂水族館",
       "link": "http://kamo-kurage.jp/",
-      "resolved": "https://kamo-kurage.jp/"
+      "resolved": "http://kamo-kurage.jp/"
     },
     {
       "name": "福島海洋科学館",
@@ -384,7 +384,7 @@
     {
       "name": "浜松動物園",
       "link": "http://www.hamazoo.net/",
-      "resolved": null
+      "resolved": "https://www.hamazoo.net/"
     },
     {
       "name": "豊橋動物園",
