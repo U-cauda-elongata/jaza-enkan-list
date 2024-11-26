@@ -1,5 +1,5 @@
 {
-  "retrieved": "2024-11-19T15:10:04Z",
+  "retrieved": "2024-11-26T15:10:23Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -264,7 +264,7 @@
     {
       "name": "すみだ水族館",
       "link": "http://www.sumida-aquarium.com/",
-      "resolved": "https://www.sumida-aquarium.com/"
+      "resolved": "https://www.sumida-aquarium.com/?doing_wp_cron=1732600729.3211100101470947265625"
     },
     {
       "name": "川崎水族館",
@@ -659,7 +659,7 @@
     {
       "name": "平川動物公園",
       "link": "http://hirakawazoo.jp/",
-      "resolved": "https://hirakawazoo.jp/"
+      "resolved": null
     },
     {
       "name": "沖縄こどもの国",
@@ -684,7 +684,7 @@
     {
       "name": "かごしま水族館",
       "link": "http://www.ioworld.jp/",
-      "resolved": null
+      "resolved": "https://ioworld.jp/"
     },
     {
       "name": "ペンギン水族館",
