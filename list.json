@@ -1,5 +1,5 @@
 {
-  "retrieved": "2024-11-29T15:10:01Z",
+  "retrieved": "2024-11-30T15:08:23Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": null
+      "resolved": "https://www.nasusafari.com/"
     },
     {
       "name": "桐生が岡動物園",
@@ -684,7 +684,7 @@
     {
       "name": "かごしま水族館",
       "link": "http://www.ioworld.jp/",
-      "resolved": null
+      "resolved": "https://ioworld.jp/"
     },
     {
       "name": "ペンギン水族館",
