@@ -1,5 +1,5 @@
 {
-  "retrieved": "2024-12-06T15:09:57Z",
+  "retrieved": "2024-12-07T15:08:50Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -684,7 +684,7 @@
     {
       "name": "かごしま水族館",
       "link": "http://www.ioworld.jp/",
-      "resolved": null
+      "resolved": "https://ioworld.jp/"
     },
     {
       "name": "ペンギン水族館",
