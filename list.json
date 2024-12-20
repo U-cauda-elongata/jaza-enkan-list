@@ -1,5 +1,5 @@
 {
-  "retrieved": "2024-12-19T15:09:45Z",
+  "retrieved": "2024-12-20T15:09:06Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": "https://www.nasusafari.com/"
+      "resolved": null
     },
     {
       "name": "桐生が岡動物園",
@@ -239,7 +239,7 @@
     {
       "name": "サンシャイン水族館",
       "link": "https://sunshinecity.jp/aquarium/",
-      "resolved": null
+      "resolved": "https://sunshinecity.jp/aquarium/"
     },
     {
       "name": "葛西臨海水族園",
@@ -419,7 +419,7 @@
     {
       "name": "名古屋港水族館",
       "link": "http://www.nagoyaaqua.jp/",
-      "resolved": null
+      "resolved": "https://nagoyaaqua.jp/"
     },
     {
       "name": "SEA LIFE 名古屋",
@@ -614,7 +614,7 @@
     {
       "name": "福岡市動物園",
       "link": "http://zoo.city.fukuoka.lg.jp//",
-      "resolved": "https://zoo.city.fukuoka.lg.jp//"
+      "resolved": null
     },
     {
       "name": "大牟田市動物園",
@@ -659,7 +659,7 @@
     {
       "name": "平川動物公園",
       "link": "http://hirakawazoo.jp/",
-      "resolved": null
+      "resolved": "https://hirakawazoo.jp/"
     },
     {
       "name": "沖縄こどもの国",
