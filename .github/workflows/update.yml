@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Install dependencies
         run: sudo apt-get install -y libcurl4-openssl-dev
-      - uses: ruby/setup-ruby@v1
+      - uses: ruby/setup-ruby@32110d4e311bd8996b2a82bf2a43b714ccc91777
         with:
           ruby-version: ruby
           bundler-cache: true
@@ -21,7 +21,7 @@ jobs:
       - name: Get current date
         id: date
         run: echo "date=$(date --iso-8601)" >> "$GITHUB_OUTPUT"
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@e348103e9026cc0eee72ae06630dbe30c8bf7a79
         with:
           commit_message: 'Dump ${{ steps.date.outputs.date }}'
           branch: master
