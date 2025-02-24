@@ -1,5 +1,5 @@
 {
-  "retrieved": "2025-02-24T01:28:55Z",
+  "retrieved": "2025-02-24T15:11:18Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -164,7 +164,7 @@
     {
       "name": "大島公園",
       "link": "http://www.soumu.metro.tokyo.jp/11osima/park/www/htdocs/zoo/index.html",
-      "resolved": "https://www.soumu.metro.tokyo.lg.jp/11osima/osima/park/zoo"
+      "resolved": null
     },
     {
       "name": "羽村市動物公園",
@@ -249,7 +249,7 @@
     {
       "name": "しながわ水族館",
       "link": "http://www.aquarium.gr.jp/",
-      "resolved": "https://www.aquarium.gr.jp/"
+      "resolved": null
     },
     {
       "name": "アクアパーク品川",
@@ -419,7 +419,7 @@
     {
       "name": "名古屋港水族館",
       "link": "http://www.nagoyaaqua.jp/",
-      "resolved": null
+      "resolved": "https://nagoyaaqua.jp/"
     },
     {
       "name": "SEA LIFE 名古屋",
