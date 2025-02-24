@@ -1,5 +1,5 @@
 {
-  "retrieved": "2024-12-25T15:08:45Z",
+  "retrieved": "2025-02-24T01:28:55Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": null
+      "resolved": "https://www.nasusafari.com/"
     },
     {
       "name": "桐生が岡動物園",
@@ -164,7 +164,7 @@
     {
       "name": "大島公園",
       "link": "http://www.soumu.metro.tokyo.jp/11osima/park/www/htdocs/zoo/index.html",
-      "resolved": null
+      "resolved": "https://www.soumu.metro.tokyo.lg.jp/11osima/osima/park/zoo"
     },
     {
       "name": "羽村市動物公園",
@@ -249,7 +249,7 @@
     {
       "name": "しながわ水族館",
       "link": "http://www.aquarium.gr.jp/",
-      "resolved": null
+      "resolved": "https://www.aquarium.gr.jp/"
     },
     {
       "name": "アクアパーク品川",
@@ -294,7 +294,7 @@
     {
       "name": "高岡古城公園動物園",
       "link": "http://www.takaokakojyozoo.jp/",
-      "resolved": null
+      "resolved": "https://www.takaokakojyozoo.jp/"
     },
     {
       "name": "いしかわ動物園",
@@ -419,7 +419,7 @@
     {
       "name": "名古屋港水族館",
       "link": "http://www.nagoyaaqua.jp/",
-      "resolved": "https://nagoyaaqua.jp/"
+      "resolved": null
     },
     {
       "name": "SEA LIFE 名古屋",
@@ -614,7 +614,7 @@
     {
       "name": "福岡市動物園",
       "link": "http://zoo.city.fukuoka.lg.jp//",
-      "resolved": null
+      "resolved": "https://zoo.city.fukuoka.lg.jp//"
     },
     {
       "name": "大牟田市動物園",
