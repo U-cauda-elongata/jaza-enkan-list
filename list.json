@@ -1,5 +1,5 @@
 {
-  "retrieved": "2025-02-28T15:10:23Z",
+  "retrieved": "2025-03-01T15:08:42Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -384,7 +384,7 @@
     {
       "name": "浜松動物園",
       "link": "http://www.hamazoo.net/",
-      "resolved": null
+      "resolved": "https://www.hamazoo.net/"
     },
     {
       "name": "豊橋動物園",
@@ -659,7 +659,7 @@
     {
       "name": "平川動物公園",
       "link": "http://hirakawazoo.jp/",
-      "resolved": null
+      "resolved": "https://hirakawazoo.jp/"
     },
     {
       "name": "沖縄こどもの国",
