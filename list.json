@@ -1,5 +1,5 @@
 {
-  "retrieved": "2025-03-16T15:08:19Z",
+  "retrieved": "2025-03-17T15:10:24Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -449,7 +449,7 @@
     {
       "name": "五月山動物園",
       "link": "http://www.satsukiyamazoo.com/",
-      "resolved": null
+      "resolved": "https://satsukiyamazoo.com/"
     },
     {
       "name": "王子動物園",
@@ -484,7 +484,7 @@
     {
       "name": "京都水族館",
       "link": "http://www.kyoto-aquarium.com/",
-      "resolved": "https://www.kyoto-aquarium.com/"
+      "resolved": "https://www.kyoto-aquarium.com/?doing_wp_cron=1742181630.0527739524841308593750"
     },
     {
       "name": "鳥羽水族館",
@@ -619,7 +619,7 @@
     {
       "name": "大牟田市動物園",
       "link": "https://omutacityzoo.org/",
-      "resolved": null
+      "resolved": "https://omutacityzoo.org/"
     },
     {
       "name": "久留米鳥類センター",
@@ -659,7 +659,7 @@
     {
       "name": "平川動物公園",
       "link": "http://hirakawazoo.jp/",
-      "resolved": null
+      "resolved": "https://hirakawazoo.jp/"
     },
     {
       "name": "沖縄こどもの国",
@@ -684,7 +684,7 @@
     {
       "name": "かごしま水族館",
       "link": "http://www.ioworld.jp/",
-      "resolved": "https://ioworld.jp/"
+      "resolved": null
     },
     {
       "name": "ペンギン水族館",
