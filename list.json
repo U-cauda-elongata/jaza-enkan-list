@@ -1,5 +1,5 @@
 {
-  "retrieved": "2025-03-17T15:10:24Z",
+  "retrieved": "2025-03-18T15:10:55Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -484,7 +484,7 @@
     {
       "name": "京都水族館",
       "link": "http://www.kyoto-aquarium.com/",
-      "resolved": "https://www.kyoto-aquarium.com/?doing_wp_cron=1742181630.0527739524841308593750"
+      "resolved": "https://www.kyoto-aquarium.com/"
     },
     {
       "name": "鳥羽水族館",
@@ -499,7 +499,7 @@
     {
       "name": "大阪海遊館",
       "link": "http://www.kaiyukan.com/index.html",
-      "resolved": "https://www.kaiyukan.com/index.html"
+      "resolved": "https://www.kaiyukan.com/"
     },
     {
       "name": "NIFREL",
@@ -684,7 +684,7 @@
     {
       "name": "かごしま水族館",
       "link": "http://www.ioworld.jp/",
-      "resolved": null
+      "resolved": "https://ioworld.jp/"
     },
     {
       "name": "ペンギン水族館",
