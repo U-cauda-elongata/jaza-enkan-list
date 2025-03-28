@@ -1,5 +1,5 @@
 {
-  "retrieved": "2025-03-27T15:11:45Z",
+  "retrieved": "2025-03-28T15:10:00Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -449,7 +449,7 @@
     {
       "name": "五月山動物園",
       "link": "http://www.satsukiyamazoo.com/",
-      "resolved": "https://satsukiyamazoo.com/"
+      "resolved": null
     },
     {
       "name": "王子動物園",
@@ -619,7 +619,7 @@
     {
       "name": "大牟田市動物園",
       "link": "https://omutacityzoo.org/",
-      "resolved": "https://omutacityzoo.org/"
+      "resolved": null
     },
     {
       "name": "久留米鳥類センター",
