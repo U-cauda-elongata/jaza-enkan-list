@@ -1,5 +1,5 @@
 {
-  "retrieved": "2025-03-31T15:10:43Z",
+  "retrieved": "2025-04-01T15:13:09Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -39,7 +39,7 @@
     {
       "name": "登別ニクス",
       "link": "http://www.nixe.co.jp/main.htm",
-      "resolved": "https://www.nixe.co.jp/"
+      "resolved": "https://nixe-aqua.com/"
     },
     {
       "name": "千歳水族館",
@@ -407,6 +407,11 @@
       "resolved": "https://www.city.okazaki.lg.jp/1100/1107/1149/p006023.html"
     },
     {
+      "name": "モンキーセンター",
+      "link": "https://www.j-monkey.jp/",
+      "resolved": "https://www.j-monkey.jp/"
+    },
+    {
       "name": "東海大海洋博物館",
       "link": "http://www.umi.muse-tokai.jp/",
       "resolved": "https://www.umi.muse-tokai.jp/"
@@ -432,6 +437,11 @@
       "resolved": "https://www5.city.kyoto.jp/zoo/"
     },
     {
+      "name": "ごかつら池どうぶつパーク",
+      "link": "https://gokatsura.jp/",
+      "resolved": "https://gokatsura.jp/"
+    },
+    {
       "name": "和歌山城公園",
       "link": "http://wakayamajo.jp/animal/index.html",
       "resolved": "http://wakayamajo.jp/animal/index.html"
@@ -449,7 +459,7 @@
     {
       "name": "五月山動物園",
       "link": "http://www.satsukiyamazoo.com/",
-      "resolved": "https://satsukiyamazoo.com/"
+      "resolved": null
     },
     {
       "name": "王子動物園",
@@ -597,11 +607,6 @@
       "resolved": "https://katurahama-aq.jp/"
     },
     {
-      "name": "足摺海洋館",
-      "link": "http://www.kaiyoukan.jp/index.html",
-      "resolved": "https://www.kaiyoukan.jp/index.html"
-    },
-    {
       "name": "おさかな館",
       "link": "http://www.morinokuni.or.jp/",
       "resolved": "https://www.morinokuni.or.jp/"
@@ -619,7 +624,7 @@
     {
       "name": "大牟田市動物園",
       "link": "https://omutacityzoo.org/",
-      "resolved": "https://omutacityzoo.org/"
+      "resolved": null
     },
     {
       "name": "久留米鳥類センター",
@@ -659,7 +664,7 @@
     {
       "name": "平川動物公園",
       "link": "http://hirakawazoo.jp/",
-      "resolved": "https://hirakawazoo.jp/"
+      "resolved": null
     },
     {
       "name": "沖縄こどもの国",
