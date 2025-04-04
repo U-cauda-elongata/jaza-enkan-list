@@ -1,5 +1,5 @@
 {
-  "retrieved": "2025-04-03T15:09:49Z",
+  "retrieved": "2025-04-04T15:10:20Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -309,7 +309,7 @@
     {
       "name": "新潟市水族館",
       "link": "http://www.marinepia.or.jp/",
-      "resolved": null
+      "resolved": "https://www.marinepia.or.jp/"
     },
     {
       "name": "上越水族博物館",
@@ -459,7 +459,7 @@
     {
       "name": "五月山動物園",
       "link": "http://www.satsukiyamazoo.com/",
-      "resolved": "https://satsukiyamazoo.com/"
+      "resolved": null
     },
     {
       "name": "王子動物園",
@@ -624,7 +624,7 @@
     {
       "name": "大牟田市動物園",
       "link": "https://omutacityzoo.org/",
-      "resolved": "https://omutacityzoo.org/"
+      "resolved": null
     },
     {
       "name": "久留米鳥類センター",
