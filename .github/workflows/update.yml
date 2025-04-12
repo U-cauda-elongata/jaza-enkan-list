@@ -26,3 +26,4 @@ jobs:
           commit_message: 'Dump ${{ steps.date.outputs.date }}'
           branch: master
           file_pattern: 'list.json'
+          commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
