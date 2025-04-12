@@ -28,9 +28,9 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/upload-artifact@v4
+      - uses: actions/download-artifact@v4
         with:
-          path: 'list.json'
+          pattern: 'list.json'
       - name: Get current date
         id: date
         run: echo "date=$(date --iso-8601)" >> "$GITHUB_OUTPUT"
