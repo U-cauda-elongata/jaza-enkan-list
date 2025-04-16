@@ -29,11 +29,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/download-artifact@v4
-        with:
-          pattern: 'list.json'
-      - name: Get current date
+      - name: Get retrieved date
         id: date
-        run: echo "date=$(date --iso-8601)" >> "$GITHUB_OUTPUT"
+        run: echo "date=$(jq -r '.retrieved | split("T") | .[0]' list.json)" >> "$GITHUB_OUTPUT"
       - uses: stefanzweifel/git-auto-commit-action@e348103e9026cc0eee72ae06630dbe30c8bf7a79
         with:
           commit_message: 'Dump ${{ steps.date.outputs.date }}'
