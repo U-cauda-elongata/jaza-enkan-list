@@ -66,7 +66,7 @@ html = Curl.get(INDEX).body_str
 html = Nokogiri::HTML(html)
 
 list = html.css('.park-place, .aquarium-place').map do |elm|
-  elm.at_css('a') or raise 'Expected `<a>` in the element'
+  elm.css('a').last or raise 'Expected `<a>` in the element'
 end
 
 if list.empty?
