@@ -8,7 +8,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Install dependencies
         run: sudo apt-get install -y libcurl4-openssl-dev
       - uses: ruby/setup-ruby@v1
@@ -16,7 +16,7 @@ jobs:
           ruby-version: '3.4'
           bundler-cache: true
       - run: bundle exec jaza-enkan-list.rb > list.json 
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v5
         with:
           path: 'list.json'
           if-no-files-found: error
@@ -27,12 +27,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/download-artifact@v4
+      - uses: actions/checkout@v5
+      - uses: actions/download-artifact@v6
       - name: Get retrieved date
         id: date
         run: echo "date=$(jq -r '.retrieved | split("T") | .[0]' list.json)" >> "$GITHUB_OUTPUT"
-      - uses: stefanzweifel/git-auto-commit-action@e348103e9026cc0eee72ae06630dbe30c8bf7a79
+      - uses: stefanzweifel/git-auto-commit-action@28e16e81777b558cc906c8750092100bbb34c5e3
         with:
           commit_message: 'Dump ${{ steps.date.outputs.date }}'
           branch: master
