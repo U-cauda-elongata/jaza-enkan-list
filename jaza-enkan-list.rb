@@ -65,14 +65,18 @@ timestamp = Time.now.utc.iso8601
 html = Curl.get(INDEX).body_str
 html = Nokogiri::HTML(html)
 
-list = html.css('.enkan-list').map do |elm|
-  elm.css('a').first
-end.compact
+list = html.css('.park-place, .aquarium-place').map do |elm|
+  elm.at_css('a') or raise 'Expected `<a>` in the element'
+end
+
+if list.empty?
+  raise 'No institutions found'
+end
 
 STDERR.puts "Found #{list.length} institutions"
 
 list.map! do |a|
-  name = a.css('img').first.attribute('alt').value
+  name = a.content
   link = a.attribute('href').value
   resolved = begin
     resolve(link)
