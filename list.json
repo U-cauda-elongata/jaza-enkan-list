@@ -1,5 +1,5 @@
 {
-  "retrieved": "2025-11-12T15:29:58Z",
+  "retrieved": "2025-11-13T15:27:12Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -664,7 +664,7 @@
     {
       "name": "平川動物公園",
       "link": "http://hirakawazoo.jp/",
-      "resolved": null
+      "resolved": "https://hirakawazoo.jp/"
     },
     {
       "name": "沖縄こどもの国",
