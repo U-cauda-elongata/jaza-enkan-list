@@ -1,5 +1,5 @@
 {
-  "retrieved": "2025-11-18T15:28:15Z",
+  "retrieved": "2025-11-19T15:28:27Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -79,7 +79,7 @@
     {
       "name": "加茂水族館",
       "link": "http://kamo-kurage.jp/",
-      "resolved": "https://kamo-kurage.jp/"
+      "resolved": "http://kamo-kurage.jp/"
     },
     {
       "name": "福島海洋科学館",
@@ -519,7 +519,7 @@
     {
       "name": "神戸須磨シーワールド",
       "link": "https://kobe-sumasui.jp/",
-      "resolved": "https://www.kobesuma-seaworld.jp"
+      "resolved": null
     },
     {
       "name": "AQUARIUM×ART átoa",
