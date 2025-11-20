@@ -1,5 +1,5 @@
 {
-  "retrieved": "2025-11-19T15:28:27Z",
+  "retrieved": "2025-11-20T15:27:07Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -79,7 +79,7 @@
     {
       "name": "加茂水族館",
       "link": "http://kamo-kurage.jp/",
-      "resolved": "http://kamo-kurage.jp/"
+      "resolved": "https://kamo-kurage.jp/"
     },
     {
       "name": "福島海洋科学館",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": "https://www.nasusafari.com/"
+      "resolved": null
     },
     {
       "name": "桐生が岡動物園",
@@ -519,7 +519,7 @@
     {
       "name": "神戸須磨シーワールド",
       "link": "https://kobe-sumasui.jp/",
-      "resolved": null
+      "resolved": "https://www.kobesuma-seaworld.jp"
     },
     {
       "name": "AQUARIUM×ART átoa",
