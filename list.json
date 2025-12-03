@@ -1,5 +1,5 @@
 {
-  "retrieved": "2025-12-02T15:29:53Z",
+  "retrieved": "2025-12-03T15:29:29Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -519,7 +519,7 @@
     {
       "name": "神戸須磨シーワールド",
       "link": "https://kobe-sumasui.jp/",
-      "resolved": null
+      "resolved": "https://www.kobesuma-seaworld.jp"
     },
     {
       "name": "AQUARIUM×ART átoa",
