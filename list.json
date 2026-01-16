@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-01-15T15:32:01Z",
+  "retrieved": "2026-01-16T15:30:04Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": null
+      "resolved": "https://www.nasusafari.com/"
     },
     {
       "name": "桐生が岡動物園",
@@ -444,7 +444,7 @@
     {
       "name": "和歌山城公園",
       "link": "http://wakayamajo.jp/animal/index.html",
-      "resolved": "http://wakayamajo.jp/animal/index.html"
+      "resolved": "https://wakayamajo.jp/animal/index.html"
     },
     {
       "name": "アドベンチャーワールド",
