@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-01-25T15:26:07Z",
+  "retrieved": "2026-01-26T15:35:22Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -94,7 +94,7 @@
     {
       "name": "宇都宮動物園",
       "link": "http://www.utsunomiya-zoo.com/",
-      "resolved": "https://utsunomiya-zoo.com/"
+      "resolved": null
     },
     {
       "name": "那須どうぶつ王国",
