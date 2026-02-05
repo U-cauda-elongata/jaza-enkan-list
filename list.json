@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-02-04T15:50:51Z",
+  "retrieved": "2026-02-05T15:47:41Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -354,7 +354,7 @@
     {
       "name": "楽寿園",
       "link": "http://www.city.mishima.shizuoka.jp/rakujyu/",
-      "resolved": "https://www.city.mishima.shizuoka.jp/rakujyu/"
+      "resolved": "https://www.city.mishima.shizuoka.jp/site/rakujyuen/"
     },
     {
       "name": "富士サファリ",
@@ -554,12 +554,12 @@
     {
       "name": "徳山動物園",
       "link": "http://www.city.shunan.lg.jp/site/zoo/",
-      "resolved": "https://tokuyama-zoo.jp"
+      "resolved": null
     },
     {
       "name": "秋吉台サファリ",
       "link": "http://www.safariland.jp/",
-      "resolved": null
+      "resolved": "https://www.safariland.jp/"
     },
     {
       "name": "ときわ動物園",
