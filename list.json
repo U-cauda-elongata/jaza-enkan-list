@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-02-14T15:32:06Z",
+  "retrieved": "2026-02-15T15:31:17Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": null
+      "resolved": "https://www.nasusafari.com/"
     },
     {
       "name": "桐生が岡動物園",
@@ -649,7 +649,7 @@
     {
       "name": "九州サファリ\n    ",
       "link": "http://www.africansafari.co.jp/",
-      "resolved": "https://africansafari.co.jp/"
+      "resolved": null
     },
     {
       "name": "熊本市動植物園",
