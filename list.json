@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-02-24T16:04:29Z",
+  "retrieved": "2026-02-25T16:10:18Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": "https://www.nasusafari.com/"
+      "resolved": null
     },
     {
       "name": "桐生が岡動物園",
@@ -454,7 +454,7 @@
     {
       "name": "天王寺動物園",
       "link": "https://www.tennojizoo.jp/",
-      "resolved": null
+      "resolved": "https://www.tennojizoo.jp/"
     },
     {
       "name": "五月山動物園",
