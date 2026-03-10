@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-03-09T16:03:08Z",
+  "retrieved": "2026-03-10T16:05:01Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": "https://www.nasusafari.com/"
+      "resolved": null
     },
     {
       "name": "桐生が岡動物園",
@@ -404,7 +404,7 @@
     {
       "name": "岡崎動物園",
       "link": "http://www.city.okazaki.aichi.jp/1100/1107/1149/p006023.html",
-      "resolved": "https://www.city.okazaki.lg.jp/1100/1107/1149/p006023.html"
+      "resolved": null
     },
     {
       "name": "モンキーセンター",
