@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-03-12T16:03:47Z",
+  "retrieved": "2026-03-27T15:57:57Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -24,7 +24,7 @@
     {
       "name": "小樽水族館",
       "link": "http://otaru-aq.jp/",
-      "resolved": "https://otaru-aq.jp/"
+      "resolved": null
     },
     {
       "name": "新さっぽろサンピアザ水族館",
@@ -149,17 +149,17 @@
     {
       "name": "上野動物園",
       "link": "http://www.tokyo-zoo.net/zoo/ueno/index.html",
-      "resolved": "https://www.tokyo-zoo.net/zoo/ueno/"
+      "resolved": null
     },
     {
       "name": "多摩動物公園",
       "link": "http://www.tokyo-zoo.net/zoo/tama/index.html",
-      "resolved": "https://www.tokyo-zoo.net/zoo/tama/"
+      "resolved": null
     },
     {
       "name": "井の頭自然文化園 ",
       "link": "http://www.tokyo-zoo.net/zoo/ino/index.html",
-      "resolved": "https://www.tokyo-zoo.net/zoo/ino/"
+      "resolved": null
     },
     {
       "name": "大島公園",
@@ -244,7 +244,7 @@
     {
       "name": "葛西臨海水族園",
       "link": "http://www.tokyo-zoo.net/zoo/kasai/index.html",
-      "resolved": "https://www.tokyo-zoo.net/zoo/kasai/"
+      "resolved": null
     },
     {
       "name": "しながわ水族館",
