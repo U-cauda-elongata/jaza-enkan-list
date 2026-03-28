@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-03-27T15:57:57Z",
+  "retrieved": "2026-03-28T15:36:42Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -24,7 +24,7 @@
     {
       "name": "小樽水族館",
       "link": "http://otaru-aq.jp/",
-      "resolved": null
+      "resolved": "https://otaru-aq.jp/"
     },
     {
       "name": "新さっぽろサンピアザ水族館",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": "https://www.nasusafari.com/"
+      "resolved": null
     },
     {
       "name": "桐生が岡動物園",
