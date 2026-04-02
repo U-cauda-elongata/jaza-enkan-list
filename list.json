@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-04-01T16:08:30Z",
+  "retrieved": "2026-04-02T16:04:42Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": null
+      "resolved": "https://www.nasusafari.com/"
     },
     {
       "name": "桐生が岡動物園",
@@ -144,7 +144,7 @@
     {
       "name": "大崎公園子供動物園",
       "link": "https://www.saitama-park.co.jp/oosaki-park/",
-      "resolved": null
+      "resolved": "https://www.saitama-park.co.jp/osaki-park/"
     },
     {
       "name": "上野動物園",
