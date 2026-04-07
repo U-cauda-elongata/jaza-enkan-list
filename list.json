@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-04-06T15:54:17Z",
+  "retrieved": "2026-04-07T16:12:43Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": "https://www.nasusafari.com/"
+      "resolved": null
     },
     {
       "name": "桐生が岡動物園",
@@ -439,7 +439,7 @@
     {
       "name": "ごかつら池どうぶつパーク",
       "link": "https://gokatsura.jp/",
-      "resolved": "https://gokatsura.jp/"
+      "resolved": null
     },
     {
       "name": "和歌山城公園",
