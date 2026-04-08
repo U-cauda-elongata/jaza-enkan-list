@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-04-07T16:12:43Z",
+  "retrieved": "2026-04-08T16:17:54Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -94,7 +94,7 @@
     {
       "name": "宇都宮動物園",
       "link": "http://www.utsunomiya-zoo.com/",
-      "resolved": "https://utsunomiya-zoo.com/"
+      "resolved": null
     },
     {
       "name": "那須どうぶつ王国",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": null
+      "resolved": "https://www.nasusafari.com/"
     },
     {
       "name": "桐生が岡動物園",
@@ -439,7 +439,7 @@
     {
       "name": "ごかつら池どうぶつパーク",
       "link": "https://gokatsura.jp/",
-      "resolved": null
+      "resolved": "https://gokatsura.jp/"
     },
     {
       "name": "和歌山城公園",
