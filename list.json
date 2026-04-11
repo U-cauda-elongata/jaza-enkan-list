@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-04-10T15:59:23Z",
+  "retrieved": "2026-04-11T15:38:45Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -94,7 +94,7 @@
     {
       "name": "宇都宮動物園",
       "link": "http://www.utsunomiya-zoo.com/",
-      "resolved": "https://utsunomiya-zoo.com/"
+      "resolved": null
     },
     {
       "name": "那須どうぶつ王国",
@@ -649,7 +649,7 @@
     {
       "name": "九州サファリ\n    ",
       "link": "http://www.africansafari.co.jp/",
-      "resolved": null
+      "resolved": "https://africansafari.co.jp/"
     },
     {
       "name": "熊本市動植物園",
