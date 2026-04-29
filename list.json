@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-04-28T16:56:47Z",
+  "retrieved": "2026-04-29T16:45:49Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -169,7 +169,7 @@
     {
       "name": "羽村市動物公園",
       "link": "http://www.t-net.ne.jp/~hamura-z/",
-      "resolved": null
+      "resolved": "https://hamurazoo.jp/"
     },
     {
       "name": "江戸川区自然動物園",
