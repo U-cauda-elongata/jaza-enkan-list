@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-05-16T16:00:58Z",
+  "retrieved": "2026-05-17T16:01:40Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": null
+      "resolved": "https://www.nasusafari.com/"
     },
     {
       "name": "桐生が岡動物園",
@@ -624,7 +624,7 @@
     {
       "name": "大牟田市動物園",
       "link": "https://omutacityzoo.org/",
-      "resolved": null
+      "resolved": "https://omutacityzoo.org/"
     },
     {
       "name": "久留米鳥類センター",
