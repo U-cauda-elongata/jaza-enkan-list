@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-05-18T17:31:25Z",
+  "retrieved": "2026-05-19T17:39:47Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": null
+      "resolved": "https://www.nasusafari.com/"
     },
     {
       "name": "桐生が岡動物園",
@@ -169,7 +169,7 @@
     {
       "name": "羽村市動物公園",
       "link": "http://www.t-net.ne.jp/~hamura-z/",
-      "resolved": null
+      "resolved": "https://hamurazoo.jp/"
     },
     {
       "name": "江戸川区自然動物園",
@@ -409,7 +409,7 @@
     {
       "name": "モンキーセンター",
       "link": "https://www.j-monkey.jp/",
-      "resolved": "https://www.j-monkey.jp/"
+      "resolved": null
     },
     {
       "name": "東海大海洋博物館",
