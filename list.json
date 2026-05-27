@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-05-26T17:56:33Z",
+  "retrieved": "2026-05-27T18:03:58Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -403,8 +403,8 @@
     },
     {
       "name": "岡崎動物園",
-      "link": "http://www.city.okazaki.aichi.jp/1100/1107/1149/p006023.html",
-      "resolved": null
+      "link": "https://www.city.okazaki.lg.jp/zoo/index.html",
+      "resolved": "https://www.city.okazaki.lg.jp/zoo/index.html"
     },
     {
       "name": "モンキーセンター",
@@ -624,7 +624,7 @@
     {
       "name": "大牟田市動物園",
       "link": "https://omutacityzoo.org/",
-      "resolved": "https://omutacityzoo.org/"
+      "resolved": null
     },
     {
       "name": "久留米鳥類センター",
