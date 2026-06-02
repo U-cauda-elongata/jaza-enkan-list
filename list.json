@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-06-01T19:56:15Z",
+  "retrieved": "2026-06-02T18:44:18Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -269,7 +269,7 @@
     {
       "name": "川崎水族館",
       "link": "https://kawa-sui.com/",
-      "resolved": null
+      "resolved": "https://kawa-sui.com/"
     },
     {
       "name": "八景島シーパラダイス",
