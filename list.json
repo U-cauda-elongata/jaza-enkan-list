@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-06-26T17:03:34Z",
+  "retrieved": "2026-06-27T16:09:25Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -624,7 +624,7 @@
     {
       "name": "大牟田市動物園",
       "link": "https://omutacityzoo.org/",
-      "resolved": null
+      "resolved": "https://omutacityzoo.org/"
     },
     {
       "name": "久留米鳥類センター",
