@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-06-30T17:08:38Z",
+  "retrieved": "2026-07-01T17:20:02Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -169,7 +169,7 @@
     {
       "name": "羽村市動物公園",
       "link": "http://www.t-net.ne.jp/~hamura-z/",
-      "resolved": null
+      "resolved": "https://hamurazoo.jp/"
     },
     {
       "name": "江戸川区自然動物園",
@@ -399,7 +399,7 @@
     {
       "name": "豊田鞍ケ池公園",
       "link": "http://www.city.toyota.aichi.jp/shisetsu/sports/kouen/1007430/index.html",
-      "resolved": "https://www.city.toyota.aichi.jp/shisetsu/sports/kouen/1007430/index.html"
+      "resolved": "https://www.city.toyota.aichi.jp/shisei/shisetsu/sports/kouen/1073839/1007430/index.html"
     },
     {
       "name": "岡崎動物園",
