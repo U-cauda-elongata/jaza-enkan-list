@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-07-01T17:20:02Z",
+  "retrieved": "2026-07-08T16:43:18Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": null
+      "resolved": "https://www.nasusafari.com/"
     },
     {
       "name": "桐生が岡動物園",
@@ -279,7 +279,7 @@
     {
       "name": "なかがわ水遊園",
       "link": "http://tnap.jp/",
-      "resolved": "https://tnap.jp/"
+      "resolved": null
     },
     {
       "name": "富士水族館",
@@ -364,7 +364,7 @@
     {
       "name": "伊豆アニマルキングダム",
       "link": "http://izu-kamori.jp/izu-biopark/index.html",
-      "resolved": null
+      "resolved": "https://www.izu-kamori.jp/"
     },
     {
       "name": "シャボテン動物公園",
@@ -444,7 +444,7 @@
     {
       "name": "和歌山城公園",
       "link": "http://wakayamajo.jp/animal/index.html",
-      "resolved": "https://wakayamajo.jp/animal/index.html"
+      "resolved": "https://wakayamajo.jp/zoo/"
     },
     {
       "name": "アドベンチャーワールド",
