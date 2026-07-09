@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-07-08T16:43:18Z",
+  "retrieved": "2026-07-09T17:23:19Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -124,12 +124,12 @@
     {
       "name": "大宮公園",
       "link": "http://www.parks.or.jp/omiyazoo/",
-      "resolved": "https://www.parks.or.jp/omiyazoo/"
+      "resolved": null
     },
     {
       "name": "埼玉県こども動物自然公園",
       "link": "http://www.parks.or.jp/sczoo/",
-      "resolved": "https://www.parks.or.jp/sczoo/"
+      "resolved": null
     },
     {
       "name": "東武動物公園",
@@ -139,7 +139,7 @@
     {
       "name": "狭山智光山動物園",
       "link": "http://www.parks.or.jp/chikozan/zoo/",
-      "resolved": "https://www.parks.or.jp/chikozan/zoo/"
+      "resolved": null
     },
     {
       "name": "大崎公園子供動物園",
@@ -234,7 +234,7 @@
     {
       "name": "さいたま水族館",
       "link": "http://www.parks.or.jp/suizokukan/",
-      "resolved": "https://www.parks.or.jp/suizokukan/"
+      "resolved": null
     },
     {
       "name": "サンシャイン水族館",
@@ -339,7 +339,7 @@
     {
       "name": "茶臼山動物園",
       "link": "http://www.chausuyama.com/",
-      "resolved": "https://www.chausuyama.com/"
+      "resolved": null
     },
     {
       "name": "飯田動物園",
