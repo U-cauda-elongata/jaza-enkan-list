@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-07-19T16:00:49Z",
+  "retrieved": "2026-07-20T16:27:01Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -34,12 +34,12 @@
     {
       "name": "AOAO SAPPORO",
       "link": "https://aoao-sapporo.blue/",
-      "resolved": null
+      "resolved": "https://aoao-sapporo.blue/"
     },
     {
       "name": "登別ニクス",
       "link": "http://www.nixe.co.jp/main.htm",
-      "resolved": null
+      "resolved": "https://nixe-aqua.com/"
     },
     {
       "name": "千歳水族館",
@@ -59,7 +59,7 @@
     {
       "name": "盛岡市動物公園",
       "link": "https://zoomo.co.jp/",
-      "resolved": null
+      "resolved": "https://zoomo.co.jp/"
     },
     {
       "name": "岩手サファリ",
@@ -84,12 +84,12 @@
     {
       "name": "福島海洋科学館",
       "link": "https://www.aquamarine.or.jp/",
-      "resolved": null
+      "resolved": "https://www.aquamarine.or.jp/"
     },
     {
       "name": "いなわしろカワセミ水族館",
       "link": "https://www.aquamarine.or.jp/kawasemi/",
-      "resolved": null
+      "resolved": "https://www.aquamarine.or.jp/kawasemi/"
     },
     {
       "name": "宇都宮動物園",
@@ -99,7 +99,7 @@
     {
       "name": "那須どうぶつ王国",
       "link": "http://www.nasu-oukoku.com/",
-      "resolved": null
+      "resolved": "https://nasu-oukoku.com/"
     },
     {
       "name": "那須サファリ",
@@ -144,7 +144,7 @@
     {
       "name": "大崎公園子供動物園",
       "link": "https://www.saitama-park.co.jp/oosaki-park/",
-      "resolved": null
+      "resolved": "https://www.saitama-park.co.jp/osaki-park/"
     },
     {
       "name": "上野動物園",
@@ -169,7 +169,7 @@
     {
       "name": "羽村市動物公園",
       "link": "http://www.t-net.ne.jp/~hamura-z/",
-      "resolved": null
+      "resolved": "https://hamurazoo.jp/"
     },
     {
       "name": "江戸川区自然動物園",
@@ -219,7 +219,7 @@
     {
       "name": "市原ぞうの国",
       "link": "http://www.zounokuni.com/",
-      "resolved": null
+      "resolved": "https://zounokuni.com/"
     },
     {
       "name": "遊亀公園動物園",
@@ -249,7 +249,7 @@
     {
       "name": "しながわ水族館",
       "link": "http://www.aquarium.gr.jp/",
-      "resolved": null
+      "resolved": "https://www.aquarium.gr.jp/"
     },
     {
       "name": "アクアパーク品川",
@@ -364,7 +364,7 @@
     {
       "name": "伊豆アニマルキングダム",
       "link": "http://izu-kamori.jp/izu-biopark/index.html",
-      "resolved": null
+      "resolved": "https://www.izu-kamori.jp/"
     },
     {
       "name": "シャボテン動物公園",
@@ -504,7 +504,7 @@
     {
       "name": "伊勢シーパラダイス",
       "link": "https://ise-seaparadise.com/",
-      "resolved": null
+      "resolved": "https://ise-seaparadise.com/"
     },
     {
       "name": "海遊館",
@@ -519,7 +519,7 @@
     {
       "name": "神戸須磨シーワールド",
       "link": "https://kobe-sumasui.jp/",
-      "resolved": null
+      "resolved": "https://www.kobesuma-seaworld.jp"
     },
     {
       "name": "AQUARIUM×ART átoa",
@@ -549,7 +549,7 @@
     {
       "name": "福山動物園",
       "link": "http://www.fukuyamazoo.jp/",
-      "resolved": null
+      "resolved": "https://www.fukuyamazoo.jp/"
     },
     {
       "name": "徳山動物園",
@@ -599,7 +599,7 @@
     {
       "name": "のいち動物公園",
       "link": "http://www.noichizoo.or.jp/",
-      "resolved": null
+      "resolved": "https://noichizoo.or.jp/"
     },
     {
       "name": "桂浜水族館",
@@ -614,7 +614,7 @@
     {
       "name": "到津の森公園",
       "link": "http://www.itozu-zoo.jp/",
-      "resolved": null
+      "resolved": "https://www.itozu-zoo.jp/"
     },
     {
       "name": "福岡市動物園",
@@ -669,7 +669,7 @@
     {
       "name": "沖縄こどもの国",
       "link": "https://www.okzm.jp/",
-      "resolved": null
+      "resolved": "https://www.okzm.jp/"
     },
     {
       "name": "ネオパークオキナワ",
