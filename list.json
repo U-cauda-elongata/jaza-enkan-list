@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-07-28T16:43:55Z",
+  "retrieved": "2026-07-29T16:24:51Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -653,8 +653,8 @@
     },
     {
       "name": "熊本市動植物園",
-      "link": "http://ezooko.jp/",
-      "resolved": null
+      "link": "https://www.ezooko.jp/",
+      "resolved": "https://www.ezooko.jp/"
     },
     {
       "name": "フェニックス動物園",
