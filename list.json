@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-07-31T16:48:04Z",
+  "retrieved": "2026-08-01T16:04:13Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -314,7 +314,7 @@
     {
       "name": "上越水族博物館",
       "link": "http://www.umigatari.jp/joetsu/",
-      "resolved": null
+      "resolved": "https://www.umigatari.jp/joetsu/"
     },
     {
       "name": "寺泊水族博物館",
@@ -384,7 +384,7 @@
     {
       "name": "浜松動物園",
       "link": "http://www.hamazoo.net/",
-      "resolved": "https://www.hamazoo.net/"
+      "resolved": null
     },
     {
       "name": "豊橋動物園",
