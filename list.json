@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-08-14T15:56:10Z",
+  "retrieved": "2026-08-15T15:25:59Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": "https://www.nasusafari.com/"
+      "resolved": null
     },
     {
       "name": "桐生が岡動物園",
@@ -464,7 +464,7 @@
     {
       "name": "王子動物園",
       "link": "http://www.kobe-ojizoo.jp/",
-      "resolved": "https://www.kobe-ojizoo.jp/"
+      "resolved": null
     },
     {
       "name": "神戸どうぶつ王国",
