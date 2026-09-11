@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-09-10T18:14:07Z",
+  "retrieved": "2026-09-11T18:17:44Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -364,7 +364,7 @@
     {
       "name": "伊豆アニマルキングダム",
       "link": "http://izu-kamori.jp/izu-biopark/index.html",
-      "resolved": "https://izu-kamori.jp/izu-biopark/index.html"
+      "resolved": "https://www.izu-kamori.jp/"
     },
     {
       "name": "シャボテン動物公園",
@@ -384,7 +384,7 @@
     {
       "name": "浜松動物園",
       "link": "http://www.hamazoo.net/",
-      "resolved": null
+      "resolved": "https://www.hamazoo.net/"
     },
     {
       "name": "豊橋動物園",
