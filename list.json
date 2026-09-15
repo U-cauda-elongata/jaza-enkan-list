@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-09-14T19:46:32Z",
+  "retrieved": "2026-09-15T18:48:48Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -384,7 +384,7 @@
     {
       "name": "浜松動物園",
       "link": "http://www.hamazoo.net/",
-      "resolved": null
+      "resolved": "https://www.hamazoo.net/"
     },
     {
       "name": "豊橋動物園",
@@ -454,7 +454,7 @@
     {
       "name": "天王寺動物園",
       "link": "https://www.tennojizoo.jp/",
-      "resolved": "https://www.tennojizoo.jp/"
+      "resolved": null
     },
     {
       "name": "五月山動物園",
