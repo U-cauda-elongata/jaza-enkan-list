@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-09-18T18:12:43Z",
+  "retrieved": "2026-09-19T17:52:22Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": null
+      "resolved": "https://www.nasusafari.com/"
     },
     {
       "name": "桐生が岡動物園",
@@ -484,7 +484,7 @@
     {
       "name": "淡路ファームパーク",
       "link": "http://www.england-hill.com/",
-      "resolved": "https://www.england-hill.com/"
+      "resolved": null
     },
     {
       "name": "琵琶湖博物館",
@@ -664,7 +664,7 @@
     {
       "name": "平川動物公園",
       "link": "http://hirakawazoo.jp/",
-      "resolved": null
+      "resolved": "https://hirakawazoo.jp/"
     },
     {
       "name": "沖縄こどもの国",
@@ -689,7 +689,7 @@
     {
       "name": "かごしま水族館",
       "link": "http://www.ioworld.jp/",
-      "resolved": null
+      "resolved": "https://ioworld.jp/"
     },
     {
       "name": "ペンギン水族館",
