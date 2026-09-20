@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-09-19T17:52:22Z",
+  "retrieved": "2026-09-20T18:08:44Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -39,7 +39,7 @@
     {
       "name": "登別ニクス",
       "link": "http://www.nixe.co.jp/main.htm",
-      "resolved": "https://nixe-aqua.com/"
+      "resolved": null
     },
     {
       "name": "千歳水族館",
@@ -484,7 +484,7 @@
     {
       "name": "淡路ファームパーク",
       "link": "http://www.england-hill.com/",
-      "resolved": null
+      "resolved": "https://www.england-hill.com/"
     },
     {
       "name": "琵琶湖博物館",
