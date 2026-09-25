@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-09-24T18:55:36Z",
+  "retrieved": "2026-09-25T19:10:59Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": "https://www.nasusafari.com/"
+      "resolved": null
     },
     {
       "name": "桐生が岡動物園",
@@ -344,7 +344,7 @@
     {
       "name": "飯田動物園",
       "link": "https://iidazoo.jp/",
-      "resolved": "https://iidazoo.jp/"
+      "resolved": null
     },
     {
       "name": "大町山岳博物館",
@@ -364,7 +364,7 @@
     {
       "name": "伊豆アニマルキングダム",
       "link": "http://izu-kamori.jp/izu-biopark/index.html",
-      "resolved": null
+      "resolved": "https://www.izu-kamori.jp/"
     },
     {
       "name": "シャボテン動物公園",
@@ -484,7 +484,7 @@
     {
       "name": "淡路ファームパーク",
       "link": "http://www.england-hill.com/",
-      "resolved": null
+      "resolved": "https://www.england-hill.com/"
     },
     {
       "name": "琵琶湖博物館",
