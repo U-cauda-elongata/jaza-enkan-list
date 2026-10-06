@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-10-05T21:54:57Z",
+  "retrieved": "2026-10-06T20:06:09Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -134,7 +134,7 @@
     {
       "name": "東武動物公園",
       "link": "http://www.tobuzoo.com/zoo/",
-      "resolved": "https://www.tobuzoo.com/zoo/"
+      "resolved": null
     },
     {
       "name": "狭山智光山動物園",
@@ -309,7 +309,7 @@
     {
       "name": "新潟市水族館",
       "link": "http://www.marinepia.or.jp/",
-      "resolved": null
+      "resolved": "https://www.marinepia.or.jp/"
     },
     {
       "name": "上越水族博物館",
@@ -384,7 +384,7 @@
     {
       "name": "浜松動物園",
       "link": "http://www.hamazoo.net/",
-      "resolved": null
+      "resolved": "https://www.hamazoo.net/"
     },
     {
       "name": "豊橋動物園",
