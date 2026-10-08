@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-10-07T20:30:46Z",
+  "retrieved": "2026-10-08T20:35:51Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -134,7 +134,7 @@
     {
       "name": "東武動物公園",
       "link": "http://www.tobuzoo.com/zoo/",
-      "resolved": null
+      "resolved": "https://www.tobuzoo.com/"
     },
     {
       "name": "狭山智光山動物園",
@@ -589,7 +589,7 @@
     {
       "name": "とべ動物園",
       "link": "http://www.tobezoo.com/",
-      "resolved": "https://www.tobezoo.com/"
+      "resolved": "http://www.tobezoo.com/"
     },
     {
       "name": "高知アニマルランド",
