@@ -1,10 +1,10 @@
 {
-  "retrieved": "2026-10-21T19:10:39Z",
+  "retrieved": "2026-10-28T20:09:28Z",
   "institutions": [
     {
       "name": "円山動物園",
       "link": "http://www.city.sapporo.jp/zoo/",
-      "resolved": null
+      "resolved": "https://www.city.sapporo.jp/zoo/"
     },
     {
       "name": "旭山動物園",
@@ -29,7 +29,7 @@
     {
       "name": "新さっぽろサンピアザ水族館",
       "link": "http://www.sunpiazza-aquarium.com/",
-      "resolved": null
+      "resolved": "https://www.sunpiazza-aquarium.com/"
     },
     {
       "name": "AOAO SAPPORO",
@@ -169,7 +169,7 @@
     {
       "name": "羽村市動物公園",
       "link": "http://www.t-net.ne.jp/~hamura-z/",
-      "resolved": null
+      "resolved": "https://hamurazoo.jp/"
     },
     {
       "name": "江戸川区自然動物園",
@@ -184,7 +184,7 @@
     {
       "name": "足立区生物園",
       "link": "http://www.seibutuen.jp/",
-      "resolved": "https://www.seibutuen.jp/"
+      "resolved": "https://seibutuen.jp/"
     },
     {
       "name": "千葉市動物公園",
@@ -224,7 +224,7 @@
     {
       "name": "遊亀公園動物園",
       "link": "https://www.city.kofu.yamanashi.jp/zoo/index.html",
-      "resolved": "https://www.city.kofu.yamanashi.jp/zoo/index.html"
+      "resolved": "https://www.city.kofu.lg.jp/zoo/index.html"
     },
     {
       "name": "鴨川シーワールド",
@@ -284,12 +284,12 @@
     {
       "name": "富士水族館",
       "link": "http://www.morinonakano-suizokukan.com/",
-      "resolved": null
+      "resolved": "https://www.morinonakano-suizokukan.com/"
     },
     {
       "name": "富山ファミリーパーク",
       "link": "http://www.toyama-familypark.jp/",
-      "resolved": null
+      "resolved": "https://www.toyama-familypark.jp/"
     },
     {
       "name": "高岡古城公園動物園",
@@ -299,7 +299,7 @@
     {
       "name": "いしかわ動物園",
       "link": "http://www.ishikawazoo.jp/",
-      "resolved": "https://www.ishikawazoo.jp/"
+      "resolved": "https://www.ishikawazoo.jp/maintenance.html"
     },
     {
       "name": "鯖江西山動物園",
@@ -349,7 +349,7 @@
     {
       "name": "大町山岳博物館",
       "link": "http://www.omachi-sanpaku.com/",
-      "resolved": null
+      "resolved": "https://www.omachi-sanpaku.com/"
     },
     {
       "name": "楽寿園",
@@ -369,7 +369,7 @@
     {
       "name": "シャボテン動物公園",
       "link": "http://www.shaboten.co.jp/",
-      "resolved": "https://www.shaboten.co.jp/"
+      "resolved": "https://shaboten.co.jp/"
     },
     {
       "name": "熱川バナナワニ園",
@@ -449,7 +449,7 @@
     {
       "name": "アドベンチャーワールド",
       "link": "http://aws-s.com/",
-      "resolved": null
+      "resolved": "https://www.aws-s.com/"
     },
     {
       "name": "天王寺動物園",
@@ -499,12 +499,12 @@
     {
       "name": "鳥羽水族館",
       "link": "http://www.aquarium.co.jp/",
-      "resolved": "https://aquarium.co.jp/"
+      "resolved": null
     },
     {
       "name": "伊勢シーパラダイス",
       "link": "https://ise-seaparadise.com/",
-      "resolved": null
+      "resolved": "https://ise-seaparadise.com/"
     },
     {
       "name": "海遊館",
@@ -524,7 +524,7 @@
     {
       "name": "AQUARIUM×ART átoa",
       "link": "https://atoa-kobe.jp/",
-      "resolved": "https://atoa-kobe.jp/"
+      "resolved": null
     },
     {
       "name": "城崎マリンワールド",
@@ -604,7 +604,7 @@
     {
       "name": "桂浜水族館",
       "link": "http://katurahama-aq.jp/",
-      "resolved": null
+      "resolved": "https://katurahama-aq.jp/"
     },
     {
       "name": "おさかな館",
@@ -649,7 +649,7 @@
     {
       "name": "九州サファリ\n                                        ",
       "link": "http://www.africansafari.co.jp/",
-      "resolved": null
+      "resolved": "https://africansafari.co.jp/"
     },
     {
       "name": "熊本市動植物園",
@@ -684,7 +684,7 @@
     {
       "name": "大分マリーンパレス",
       "link": "http://www.umitamago.jp/",
-      "resolved": null
+      "resolved": "https://www.umitamago.jp/"
     },
     {
       "name": "かごしま水族館",
@@ -694,7 +694,7 @@
     {
       "name": "ペンギン水族館",
       "link": "http://penguin-aqua.jp/",
-      "resolved": null
+      "resolved": "https://penguin-aqua.jp/"
     },
     {
       "name": "美ら海水族館",
