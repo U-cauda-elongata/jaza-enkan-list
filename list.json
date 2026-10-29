@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-10-28T20:09:28Z",
+  "retrieved": "2026-10-29T20:06:39Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": "https://www.nasusafari.com/"
+      "resolved": null
     },
     {
       "name": "桐生が岡動物園",
@@ -464,7 +464,7 @@
     {
       "name": "王子動物園",
       "link": "http://www.kobe-ojizoo.jp/",
-      "resolved": "https://www.kobe-ojizoo.jp/"
+      "resolved": null
     },
     {
       "name": "神戸どうぶつ王国",
@@ -499,7 +499,7 @@
     {
       "name": "鳥羽水族館",
       "link": "http://www.aquarium.co.jp/",
-      "resolved": null
+      "resolved": "https://aquarium.co.jp/"
     },
     {
       "name": "伊勢シーパラダイス",
@@ -524,7 +524,7 @@
     {
       "name": "AQUARIUM×ART átoa",
       "link": "https://atoa-kobe.jp/",
-      "resolved": null
+      "resolved": "https://atoa-kobe.jp/"
     },
     {
       "name": "城崎マリンワールド",
@@ -677,6 +677,11 @@
       "resolved": "https://www.neopark.co.jp/"
     },
     {
+      "name": "東南植物楽園",
+      "link": "https://www.southeast-botanical.jp/",
+      "resolved": "https://www.southeast-botanical.jp/"
+    },
+    {
       "name": "海の中道水族館",
       "link": "http://www.marine-world.jp/",
       "resolved": "https://marine-world.jp/"
@@ -700,11 +705,6 @@
       "name": "美ら海水族館",
       "link": "https://churaumi.okinawa/",
       "resolved": "https://churaumi.okinawa/"
-    },
-    {
-      "name": "東南植物楽園",
-      "link": "https://www.southeast-botanical.jp/",
-      "resolved": "https://www.southeast-botanical.jp/"
     }
   ]
 }
