@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-11-13T21:18:51Z",
+  "retrieved": "2026-11-14T19:50:23Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -384,7 +384,7 @@
     {
       "name": "浜松動物園",
       "link": "http://www.hamazoo.net/",
-      "resolved": null
+      "resolved": "https://www.hamazoo.net/"
     },
     {
       "name": "豊橋動物園",
@@ -629,7 +629,7 @@
     {
       "name": "久留米鳥類センター",
       "link": "http://kurumekoen.org/birdc/",
-      "resolved": "https://kurumekoen.org/birdc/"
+      "resolved": null
     },
     {
       "name": "海の中道動物の森",
