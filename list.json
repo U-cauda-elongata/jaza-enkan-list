@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-11-15T20:15:02Z",
+  "retrieved": "2026-11-16T23:40:55Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -104,7 +104,7 @@
     {
       "name": "那須サファリ",
       "link": "http://www.nasusafari.com/",
-      "resolved": null
+      "resolved": "https://www.nasusafari.com/"
     },
     {
       "name": "桐生が岡動物園",
@@ -134,7 +134,7 @@
     {
       "name": "東武動物公園",
       "link": "http://www.tobuzoo.com/zoo/",
-      "resolved": "https://www.tobuzoo.com/"
+      "resolved": "https://www.tobuzoo.com/zoo/"
     },
     {
       "name": "狭山智光山動物園",
@@ -359,12 +359,12 @@
     {
       "name": "富士サファリ",
       "link": "http://www.fujisafari.co.jp/",
-      "resolved": "https://www.fujisafari.co.jp/"
+      "resolved": null
     },
     {
       "name": "伊豆アニマルキングダム",
       "link": "http://izu-kamori.jp/izu-biopark/index.html",
-      "resolved": "https://izu-kamori.jp/izu-biopark/index.html"
+      "resolved": "https://www.izu-kamori.jp/"
     },
     {
       "name": "シャボテン動物公園",
