@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-11-18T22:30:33Z",
+  "retrieved": "2026-11-19T22:37:31Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -289,7 +289,7 @@
     {
       "name": "富山ファミリーパーク",
       "link": "http://www.toyama-familypark.jp/",
-      "resolved": "https://www.toyama-familypark.jp/"
+      "resolved": null
     },
     {
       "name": "高岡古城公園動物園",
@@ -444,7 +444,7 @@
     {
       "name": "和歌山城公園",
       "link": "http://wakayamajo.jp/animal/index.html",
-      "resolved": null
+      "resolved": "https://wakayamajo.jp/zoo/"
     },
     {
       "name": "アドベンチャーワールド",
