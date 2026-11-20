@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-11-19T22:37:31Z",
+  "retrieved": "2026-11-20T22:10:38Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -289,7 +289,7 @@
     {
       "name": "富山ファミリーパーク",
       "link": "http://www.toyama-familypark.jp/",
-      "resolved": null
+      "resolved": "https://www.toyama-familypark.jp/"
     },
     {
       "name": "高岡古城公園動物園",
@@ -384,7 +384,7 @@
     {
       "name": "浜松動物園",
       "link": "http://www.hamazoo.net/",
-      "resolved": "https://www.hamazoo.net/"
+      "resolved": null
     },
     {
       "name": "豊橋動物園",
@@ -464,7 +464,7 @@
     {
       "name": "王子動物園",
       "link": "http://www.kobe-ojizoo.jp/",
-      "resolved": null
+      "resolved": "https://www.kobe-ojizoo.jp/maintenance.html"
     },
     {
       "name": "神戸どうぶつ王国",
