@@ -1,5 +1,5 @@
 {
-  "retrieved": "2026-11-22T20:57:50Z",
+  "retrieved": "2026-11-24T02:03:20Z",
   "institutions": [
     {
       "name": "円山動物園",
@@ -319,7 +319,7 @@
     {
       "name": "寺泊水族博物館",
       "link": "http://www.aquarium-teradomari.jp/",
-      "resolved": null
+      "resolved": "http://www.aquarium-teradomari.jp/"
     },
     {
       "name": "のとじま水族館",
@@ -599,7 +599,7 @@
     {
       "name": "のいち動物公園",
       "link": "http://www.noichizoo.or.jp/",
-      "resolved": "https://noichizoo.or.jp/"
+      "resolved": null
     },
     {
       "name": "桂浜水族館",
